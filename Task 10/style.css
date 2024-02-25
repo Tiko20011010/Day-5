@@ -1,0 +1,13 @@
+.item {
+  list-style: none;
+  cursor: pointer;
+  padding: 5px 10px;
+  margin: 5px;
+  background-color: #eaeaea;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.item:hover {
+  background-color: #ccc;
+}
