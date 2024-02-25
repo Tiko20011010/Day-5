@@ -1,0 +1,11 @@
+.error {
+  color: red;
+  font-size: 0.8em;
+}
+
+input[type="text"],
+input[type="email"] {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
